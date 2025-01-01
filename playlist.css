@@ -1,0 +1,21 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.playlist-card {
+  padding: 0.5rem;
+  border: 1px solid rgb(80,80,80);
+  border-radius: 0.25rem;
+  box-shadow: 0 8px 8px -8px rgba(0, 0, 0, 0.5);
+}
+
+.playlist-card img {
+  max-width: 100%;
+  background-color: lightgray;
+}
+
+.playlist-title {
+  font-size: 12px;
+  padding-top: 7px;
+}
